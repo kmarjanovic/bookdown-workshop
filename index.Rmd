@@ -1,11 +1,16 @@
 ---
 title: "Share Access! Using Bookdown to Remove Barriers and Open Up Learning"
+author: "Colin Madland & Kelly Marjanovic"
+date: "Last updated: `r Sys.Date()`"
+output: bookdown::gitbook
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
+link-citations: yes
 url: https://kmarjanovic.github.io/bookdown-workshop/
 biblio-style: apalike
 ---
+
 
 *Presentation by Kelly Marjanovic, Barish Golland, & Colin Madland
 OTESSA - May 2022*
