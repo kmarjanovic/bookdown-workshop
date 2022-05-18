@@ -3,12 +3,12 @@ title: "Share Access! Using Bookdown to Remove Barriers and Open Up Learning"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-url: https://twuonline.github.io/bookdown-workshop/
+url: https://kmarjanovic.github.io/bookdown-workshop/
 biblio-style: apalike
 ---
 
 *Presentation by Kelly Marjanovic, Barish Golland, & Colin Madland
-OTESSA - May 2022
+OTESSA - May 2022*
 
 
 # Course Description{-}
