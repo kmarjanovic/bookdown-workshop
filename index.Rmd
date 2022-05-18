@@ -1,12 +1,14 @@
 ---
-title: "Welcome to [Course Name & #]!"
+title: "Share Access! Using Bookdown to Remove Barriers and Open Up Learning"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-url: https://ma-lead.github.io/ldrs664
+url: https://twuonline.github.io/bookdown-workshop/
 biblio-style: apalike
 ---
 
+*Presentation by Kelly Marjanovic, Barish Golland, & Colin Madland
+OTESSA - May 2022
 
 
 # Course Description{-}
