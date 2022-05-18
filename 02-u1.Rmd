@@ -17,6 +17,9 @@ Here is where we want to hook our students! Set the stage for the main ideas in 
 1. *Topic*  
 
 
+knitr::include_url('https://docs.google.com/presentation/d/1n8hzoLOPbGJxyJL7-s-5yoQliV_RearL-hMGzmZnhzo/edit?usp=sharing')
+
+
 ##  Learning Outcomes{-}  
 - *Describe…*
 - *Contrast…*
