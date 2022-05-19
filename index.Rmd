@@ -1,6 +1,6 @@
 ---
 title: "Share Access! Using Bookdown to Remove Barriers and Open Up Learning"
-author: "Colin Madland & Kelly Marjanovic"
+author: "Kelly Marjanovic, Colin Madland & Barish Golland"
 date: "Last updated: `r Sys.Date()`"
 output: bookdown::gitbook
 site: bookdown::bookdown_site
@@ -14,9 +14,9 @@ biblio-style: apalike
 
 
 
+# Workshop Description{-}
 ![](assets/index/Access-denied_story-slanted.jpg)
 
-# Workshop Description{-}
 *Access denied! You do not have permission to view this file!*  Sound familiar? Imagine how our learners must feel as they take all the necessary steps to begin a course, only to encounter barrier after barrier. Low Wi-Fi causing network disruptions, logging in to multiple sites to view resources, trying to locate a specific unit topic, and having screen display issues.
 
 In this session we will present our use of Bookdown, an open-source R package that helped us remove some of the barriers for learners and instructors. We will share how we moved some of our courses to Bookdown after hearing our Nigerian students had limited access to Moodle. We will explore the many advantages of using Bookdown, such as accessing course content outside of our LMS, providing a collaborative infrastructure for design and maintenance (GitHub), displaying content as a searchable book, and providing accessible versions (ePub/PDF). We will explore other advantages, as well as some challenges we have come across.  

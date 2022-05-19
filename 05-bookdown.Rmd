@@ -6,7 +6,7 @@ The bookdown package is an open-source R package that facilitates writing books 
 
 ##  Process{-}
 
-![](workflow.png)
+![](assets/bookdown/workflow.png)
 Figure 9.1: Simplified workflow to compose, compile, and publish in multiple formats with Bookdown. Images from Daniel Hendricks, RStudio, and Zotero.
 
 From [Bookdown, GitHub, and Zotero](https://ontheline.trincoll.edu/bookdown.html) by Jack Dougherty and Ilya Ilyankou
