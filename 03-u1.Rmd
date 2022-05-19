@@ -90,14 +90,16 @@ The "Questions to Consider" feature gives students an opportunity to reflect on 
 ```{block, type='reflect'}
 
 🎦 Watch the video...
-```
-
 
 #### Questions to Consider{-}  
 After completing the activities above, consider the following questions:
 
 - ...  
 - ...  
+
+```
+
+
 
 
 ## Topic 3 Title

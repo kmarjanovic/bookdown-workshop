@@ -1,0 +1,6 @@
+# Sample Course Books
+
+One of the best ways to learn bookdown is to browse some of the books out there. [Bookdown.org](https://bookdown.org/) lists a number of example Bookdown courses and books.  Below are some of my favourites, and some features to explore. 
+
+
+1. [On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs](https://ontheline.trincoll.edu/)  

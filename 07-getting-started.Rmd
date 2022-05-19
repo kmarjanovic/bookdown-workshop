@@ -1,0 +1,65 @@
+# Getting Started
+
+## Creating your Bookdown course {-}
+
+Go to: https://github.com/rstudio/bookdown-demo
+
+You will need the following:
+- R installed
+- Rstudio installed
+- GitHub account
+- Git installed
+- GitHub Desktop installed
+- optional: Atom or VSCode installed
+
+See below for explanations and instructions:
+
+## R & R Studio {-}
+
+1. Install R from [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/) (Download R 4.1.1 for Windows or Mac, as appropriate)
+1. Download R studio (free) [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)
+1. You may need to install packages.  You can do this by adding the commands to the console, or go to Tools > Install Packages
+ - `install.packages('rmarkdown')`
+ - `install.packages('rlang')`
+ - `install.packages('bookdown')`
+8. If install doesn't work, go to source of package. e.g. [https://cloud.r-project.org/web/packages/bookdown/index.html](https://cloud.r-project.org/web/packages/bookdown/index.html)
+
+##  Git, GitHub, GitHub Desktop {-}
+
+add content
+
+
+## Making Edits to Book{-}
+
+1. In Github desktop, Clone the respository to your computer.  (e.g. [https://github.com/ma-lead](https://github.com/ma-lead))
+2. edit in atom
+3. build book in RStudio
+4. stage,commit and push in GitHub desktop
+
+
+## Atom
+
+
+
+###  Activity: Reading
+
+```{block, type='reflect'}
+
+
+```
+
+
+
+## Unit Summary{-}
+
+
+##  Assessment{-}
+```{block, type='assessment'}
+### Assessment Title {-}
+See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
+```
+
+##  Checking your Learning{-}
+```{block, type='progress'}
+
+```
