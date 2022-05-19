@@ -1,4 +1,4 @@
-# Unit title
+# Bookdown Features
 
 ## Overview {-}
 
@@ -44,5 +44,5 @@ See the Assessment section for the Grading Criteria that explains how your discu
 
 ##  Checking your Learning{-}
 ```{block, type='progress'}
- 
+
 ```

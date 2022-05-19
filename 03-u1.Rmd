@@ -1,4 +1,4 @@
-# Unit title
+# Unit Template
 
 ## Overview {-}
 Welcome to [insert Course name & #]!  

@@ -1,4 +1,6 @@
-# Course Description{-}
+# Sample CourseBook Introduction
+
+## Course Description{-}
 *Insert the course description here.*
 
 ```{block, type='feedback'}
