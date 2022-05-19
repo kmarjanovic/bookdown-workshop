@@ -193,27 +193,31 @@
 <div id="overview" class="section level2 unnumbered">
 <h2>Overview</h2>
 <p>The bookdown package is an open-source R package that facilitates writing books and long-form articles/reports with R Markdown. (<a href="https://bookdown.org/" class="uri">https://bookdown.org/</a>)</p>
-<p>The bookdown package is built on top of R Markdown (<a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>), and inherits the simplicity of the Markdown syntax (you can learn the basics in five minutes; see Section 2.1), as well as the possibility of multiple types of output formats (PDF/HTML/Word/…). It has also added features like multi-page HTML output, numbering and cross-referencing figures/tables/sections/equations, inserting parts/appendices, and imported the GitBook style (<a href="https://www.gitbook.com" class="uri">https://www.gitbook.com</a>) to create elegant and appealing HTML book pages. This book itself is an example of how you can produce a book from a series of R Markdown documents, and both the printed version and the online version can look professional. You can find more examples at <a href="https://bookdown.org" class="uri">https://bookdown.org</a>.</p>
-<p>From <a href="https://bookdown.org/yihui/bookdown/">bookdown: Authoring Books and Technical Documents with R Markdown</a> by Yihui Xie</p>
+<p>The bookdown package is built on top of R Markdown (<a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>), and inherits the simplicity of the Markdown syntax (see <a href="https://bookdown.org/yihui/bookdown/markdown-syntax.html#markdown-syntax">guide</a>), as well as the possibility of multiple types of output formats (PDF/HTML/Word/…). It has also added features like multi-page HTML output, numbering and cross-referencing figures/tables/sections/equations, inserting parts/appendices, and imported the GitBook style (<a href="https://www.gitbook.com" class="uri">https://www.gitbook.com</a>) to create elegant and appealing HTML book pages. This book itself is an example of how you can produce a book from a series of R Markdown documents, and both the printed version and the online version can look professional. You can find more examples at <a href="https://bookdown.org" class="uri">https://bookdown.org</a>.</p>
+<p><em>From <a href="https://bookdown.org/yihui/bookdown/">bookdown: Authoring Books and Technical Documents with R Markdown</a> by Yihui Xie</em></p>
 </div>
 <div id="process" class="section level2 unnumbered">
 <h2>Process</h2>
 <p><img src="assets/bookdown/workflow.png" />
 Figure 9.1: Simplified workflow to compose, compile, and publish in multiple formats with Bookdown. Images from Daniel Hendricks, RStudio, and Zotero.</p>
-<p>From <a href="https://ontheline.trincoll.edu/bookdown.html">Bookdown, GitHub, and Zotero</a> by Jack Dougherty and Ilya Ilyankou</p>
+<p><em>From <a href="https://ontheline.trincoll.edu/bookdown.html">Bookdown, GitHub, and Zotero</a> by Jack Dougherty and Ilya Ilyankou</em></p>
 <ol style="list-style-type: decimal">
-<li>We set up the Bookdown files and composed the manuscript in R Markdown, the R-flavored version of the easy-to-write Markdown syntax. Each chapter consisted of one .Rmd file, with links to static images and interactive visualizations.<br />
+<li><strong>Book set-up:</strong> We set up the Bookdown files and composed the manuscript in <a href="https://rmarkdown.rstudio.com/">R Markdown</a>, the R-flavored version of the easy-to-write <a href="https://en.wikipedia.org/wiki/Markdown">Markdown syntax</a>. Each chapter consisted of one .Rmd file, with links to static images and interactive visualizations.<br />
 </li>
-<li>We uploaded our files to a free GitHub repository, which allows multiple authors to work simultaneously on different chapters of the book and “push” revisions (called commits) to a shared online repository, where authors can view each other’s edits.</li>
+<li><strong>Adding content:</strong></li>
 </ol>
 <ul>
-<li>Many on our team use Atom to add content. Alternatively, you could simultaneously write and comment on the same chapter in Google Documents, and use the Docs to Markdown add-on to convert one-time into Markdown format, which is similar to R Markdown.<br />
+<li>We upload our files to a free <a href="https://github.com/">GitHub</a> repository, which allows multiple authors to work simultaneously on different chapters of the book and “push” revisions (called commits) to a shared online repository, where authors can view each other’s edits.</li>
+<li>Many on our online team use <a href="https://atom.io/">Atom</a> to add content.</li>
+<li>Many of our instructors / SMEs (Subject Matter Experts) use Word documents or Google docs for content.<br />
+For Google docs, you can use the <a href="https://github.com/evbacher/gd2md-html/wiki">Docs to Markdown add-on</a> to convert one-time into Markdown format, which is similar to R Markdown. For Word docs, we use the <a href="https://www.writage.com/">Writage plugin</a> to convert to markdown.<br />
 </li>
 </ul>
 <ol style="list-style-type: decimal">
-<li>After adding content (through Github or Atom), we used Bookdown to automatically “knit” and compile the book products. Behind the scenes, Bookdown builds the editions using the PanDoc universal document converter and the LaTeX document preparation software, without requiring you to learn these complex formats.</li>
-<li>Lastly, we commit the changes through GitHub Desktop, and voila! Your book is created!</li>
+<li><strong>Building the book:</strong> After adding content (through Github or Atom), we used Bookdown to automatically “knit” and compile the book products. Behind the scenes, Bookdown builds the editions using the PanDoc universal document converter and the LaTeX document preparation software, without requiring you to learn these complex formats.</li>
+<li><strong>Commit to Create!</strong> Lastly, we commit the changes through GitHub Desktop, and voila! Your book is created!</li>
 </ol>
+<p><em>Modified from <a href="https://ontheline.trincoll.edu/bookdown.html">Bookdown, GitHub, and Zotero</a> by Jack Dougherty and Ilya Ilyankou</em></p>
 
 </div>
 </div>
