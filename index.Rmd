@@ -52,3 +52,8 @@ Participants will be able to:
 Here are the slides that will be presented in the workshop.  Feel free to follow along, or explore the rest of the pages in this book!
 
  <div class="embedly-responsive" style="position: relative;padding-bottom: 79.8571%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fembed%3Fid%3D1n8hzoLOPbGJxyJL7-s-5yoQliV_RearL-hMGzmZnhzo%26size%3Dl&display_name=Google%2BDocs&url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1n8hzoLOPbGJxyJL7-s-5yoQliV_RearL-hMGzmZnhzo%2Fedit&image=https%3A%2F%2Flh6.googleusercontent.com%2FOpBL1BS_lWLOGFmwTinORJyb-tJYWjVP4dAbKVGxBvUyQTDlgkykQwSZyERzmqvz-F9GY048zC6_2w%3Dw1200-h630-p&key=05acda8fea1b4f099c92b66268f422dd&type=text%2Fhtml&schema=google" width="700" height="559" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
+
+
+ ```{block, type='reflect'}
+ Note: This book/presentation is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt! To edit your own Bookdown book, fork the repo: https://github.com/kmarjanovic/bookdown-workshop.
+ ```
