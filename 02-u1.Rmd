@@ -1,157 +1,146 @@
-# Unit title
-
-## Overview {-}
-Welcome to [insert Course name & #]!  
-In this first unit, we begin the course by…  
-
+# Course Description{-}
+*Insert the course description here.*
 
 ```{block, type='feedback'}
 **Tips for Instructors:**
-Here is where we want to hook our students! Set the stage for the main ideas in the unit, questions that may arise, and how topics apply to practice. The Overview can help focus learners on where the unit is heading and motivate them to engage in the unit.
+The course description should cover the big ideas or themes of your course and should address or align with the course learning outcomes.  Consider this description as a hook to get students interested in your course. It should summarize what they will learn, and should imply why it matters, or how they will apply this learning experience.
+**Note that if there are any changes to a course description, these need to be approved by Senate.**
 ```
 
-##  Topics{-}  
-1. *Topic*  
-1. *Topic*  
-1. *Topic*  
-1. *Topic*  
+---
 
+## Course Learning Outcomes{-}
 
-<div class="embedly-responsive" style="position: relative;padding-bottom: 79.8571%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fembed%3Fid%3D1n8hzoLOPbGJxyJL7-s-5yoQliV_RearL-hMGzmZnhzo%26size%3Dl&display_name=Google%2BDocs&url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1n8hzoLOPbGJxyJL7-s-5yoQliV_RearL-hMGzmZnhzo%2Fedit&image=https%3A%2F%2Flh6.googleusercontent.com%2FOpBL1BS_lWLOGFmwTinORJyb-tJYWjVP4dAbKVGxBvUyQTDlgkykQwSZyERzmqvz-F9GY048zC6_2w%3Dw1200-h630-p&key=05acda8fea1b4f099c92b66268f422dd&type=text%2Fhtml&schema=google" width="700" height="559" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
-
-
-##  Learning Outcomes{-}  
-- *Describe…*
-- *Contrast…*
-- *Analyze…*
-- *Determine…*
-- *Create…*
-
-
-##  Activity Checklist{-}  
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-```{block, type='reflect'}
-#### Unit 1 Learning Activities  
-
-*Activity 1.1:* 📗 Read...    (⏱️ 20 minutes)  
-*Activity 1.2:* 🎦 Watch the video...    (⏱️ 8 minutes)  
-*Activity 1.3:* 🔍Explore the online resources...    (⏱️ 10 minutes)  
-*Activity 1.4:* 💼 Read the Case Study...    (⏱️ 10 minutes)   
-*Activity 1.5:* ✏️ Take the ungraded quiz...    (⏱️ 10 minutes)   
-```
-
-```{block, type='assessment'}
-#### Unit 1 Assessments:  
-
-💬 *Unit 1 Discussion Post*: Respond to the questions posted.  
-✏️ *Unit 1 Quiz (5%)*: Assesses your understanding of Unit 1 learning outcomes. Refer to Chapter 1 of your textbook and other online resources.
-```
+On successfully completing this course, students should be able to:
+- *Insert course learning outcome*
+- *Insert course learning outcome*
+- *Insert course learning outcome*
+- *Insert course learning outcome*
+- *Insert course learning outcome*
 
 ```{block, type='feedback'}
 **Tips for Instructors:**
-Learning activities are typically ungraded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
+As you identify the learning outcomes of a course, consider what learners will be able to know, do and value after a learning experience. Learning outcomes clearly explain the knowledge, skills, and attitudes students will gain through a course.
+
+It is crucial to have measurable learning outcomes listed on the course outline, as they communicate expectations to the learner and help guide the instructor.
+
+Note that for each course learning outcome, you may need to identify program and/or institutional Student Learning Outcomes it aligns with.
 ```
 
+---
 
-## Topic Title
-[Add content]
+## Course Activities/Requirements{-}
 
-```{block, type='feedback'}
-**Tips for Instructors:** Topic content can be 1-2 paragraphs or several pages. Consider using instructional videos, graphics, charts, or other images to convey information and appeal to visual learners.
+Activities include participation in discussions, assignments, and various ungraded learning activities designed to prepare students for assessments.  See course outline below for details on activities and assignments.
+
+
+## Determination Of Final Grade{-}
+
+| **Assessment**                         | **Grade** | Learning Outcome|
+|----------------------------------------|-----------|-----------|
+| Discussions     | 20%       | 1-7 |
+| Assignment 1: Article Analysis | 10%       | 2,3,4,5 |
+| Assignment 2: Video Presentation  | 20%       | 4-5 |
+| Assignment 3: Group Project  | 25%       | 4-5 |
+| Assignment 4: Final Paper  | 35%       | 4-5 |
+
+
+See the **Course Syllabus** and the **Assessments** section in Moodle for specific assignment details, including
+grading rubrics.
+
+---
+
+## Course Topics{-}
+1. *Insert course topic*
+1. *Insert course topic*
+1. *Insert course topic*
+1. *Insert course topic*
+1. *Insert course topic*
+1. *Insert course topic*
+
+---
+
+## Course Resources{-}
+ The following are key resources used in this course.  
+
+- *Insert course resource*
+
+
+```{block, type='caution'}
+Note that not all sections of this course use all of the above resources. Please confirm which of the following texts are required by ***checking your course syllabus.***
 ```
+---
 
-### Activity: Introductory Readings & Video
-```{block, type='reflect'}
+## Course Navigation{-}
 
-📗 Read ...
+### Course Units{-}
+ This course is organized into 10 units. Each unit of the course will provide you with the following information:
 
-#### Questions to Consider{-}  
-After completing the activities above, consider the following questions:
+ - A general overview of the key concepts that will be addressed during the unit.
+ - Specific learning outcomes and topics for the unit.
+ - Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.
+ - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.
 
-- ...  
-- ...  
+ ```{block, type='caution'}
+ Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.
+ ```
 
-```
+### Course Activities{-}
+ Below is some key information on features you will see throughout the course. 
 
-*Note that the learning activities in this course are ungraded, unless specified.  They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.*
+ ```{block, type='reflect'}
+***Learning Activity***  
+This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
+ ```
 
-```{block, type='feedback'}
-**Tips for Instructors:**
-As you add the details of the chapter/article/website to read, be sure to add the context for the reading (details about author and/or subject) and relate the reading to the unit learning outcomes.
+ ```{block, type='assessment'}
+***Assessment***  
+This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
+ ```
 
-The "Questions to Consider" feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking. In addition to questions, ask students to create graphic organizers and jot down notes in a Reflective Journal.
-```
+ ```{block, type='progress'}
+***Checking Your Learning***  
+This box is for checking your understanding, to make sure you are ready for what follows.
+ ```
 
+ ```{block, type='video'}
+***Media***  
+This box is for displaying/linking to media, such as videos or songs, in order to help illustrate or communicate concepts.
+ ```
 
-## Topic 2 Title
-[add content]
+ ```{block, type='caution'}
+***Note***  
+This box signifies key notes, such as where to submit assignments.  It may also warn you of possible problems or pitfalls you may encounter!
+ ```
 
+ ```{block, type='bonus'}
+***Note***  
+This box signifies ...another box! Feel free to add your own activity types, such as highlighting case studies, connections between topics/learners/instructors, etc.
+ ```
 
-### Activity: Video
+ ```{block, type='feedback'}
+***Note***  
+This box signifies Tips for Instructors.  Please delete these before you share this course book with your students!
+ ```
 
-```{block, type='reflect'}
+### How To Navigate This Book{-}
+ To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book.
+ ```{r, echo=F, fig.cap="Top menu bar", fig.show="hold", results='asis'}
+ knitr::include_graphics("assets/course-intro/menu.png")
+ ```
 
-🎦 Watch the video...
-```
+ The faint left and right arrows at the sides of each page (or bottom of the page if it’s narrow enough) allow you to step to the next/previous section. Here’s what they look like:
+ ```{r, echo=F, fig.cap="Left and right navigation arrows", fig.show="hold", results='asis'}
+ knitr::include_graphics("assets/course-intro/left_arrow.png")
+ knitr::include_graphics("assets/course-intro/right_arrow.png")
+ ```
 
+ ---
 
-#### Questions to Consider{-}  
-After completing the activities above, consider the following questions:
+## Writing Standards{-}
 
-- ...  
-- ...  
+For this course, you are expected to follow the writing standards according to APA 7. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html){target="_blank"} for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.
 
-
-## Topic 3 Title
-[add content]
-
-
-### Activity: Video
-
-```{block, type='reflect'}
-
-🎦 Watch the video...
-```
-
-
-#### Questions to Consider{-}  
-After completing the activities above, consider the following questions:
-
-- ...  
-- ...  
-
-
-## Unit 1 Summary{-}
-[add content]
-
-
-```{block, type='feedback'}
-**Tips for Instructors:**
-Remind students of a few key points and how they apply to a greater context.  You can mention the assignment or perhaps prepare them for what is in the next unit.
-```
-
-##  Assessment{-}
-```{block, type='assessment'}
-### Assessment Title {-}
-See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
-```
-
-```{block, type='feedback'}
-**Tips for Instructors:**
-Use a variety of assessment techniques to gauge students understanding of the course learning outcomes. Assessment types include: essays (include drafts/outlines), quizzes, presentations, group projects, discussions, journals, blogs, e-portfolios, interviews, and media projects (infographics, graphic organizer, video, podcast).
-```
-
-
-##  Checking your Learning{-}
-
-```{block, type='progress'}
-Now that you have completed the learning activities and assignments for this unit, check the unit learning outcomes below to see if you are able to do the following:
-
-- *Describe…*  
-- *Contrast…*  
-- *Analyze…*  
-- *Determine…*  
-- *Create…*  
-
-Feel free to review topics more in depth or continue on to the next unit.
+```{block, type='caution'}
+***It will be assumed that you have read, understand, and agree to the information provided at the [Academic Dishonesty Policy website](https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0){target="_blank"}. If you have any questions at all please contact your instructor.***
 ```

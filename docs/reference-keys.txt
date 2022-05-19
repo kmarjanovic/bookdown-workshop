@@ -31,7 +31,4 @@ activity-reading-6
 unit-title-8
 topic-title-8
 activity-reading-7
-unit-title-9
-topic-title-9
-activity-reading-8
 assignment-platform-paper
