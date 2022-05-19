@@ -26,19 +26,21 @@ See below for explanations and instructions:
 
 ##  Git, GitHub, GitHub Desktop {-}
 
-add content
-
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+1. Create a [GitHub account](https://github.com/)
+1. See the [GitHub tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
 
 ## Making Edits to Book{-}
 
-1. In Github desktop, Clone the respository to your computer.  (e.g. [https://github.com/ma-lead](https://github.com/ma-lead))
-2. edit in atom
+1. In Github desktop, clone the respository to your computer.  (e.g. [https://github.com/ma-lead](https://github.com/ma-lead))
+2. edit in Atom
 3. build book in RStudio
-4. stage,commit and push in GitHub desktop
+4. stage, commit and push in GitHub desktop
 
 
 ## Atom
 
+Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, and embedded Git Control. Developed by GitHub, Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. ([Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor)).  See https://atom.io/ for more information.
 
 
 ###  Activity: Reading
