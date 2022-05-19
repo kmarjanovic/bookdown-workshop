@@ -1,0 +1,56 @@
+# Bookdown Advantages
+
+## Overview {-}
+There are many advantages for using the Bookdown as a course resource. As you view the features below, consider whether you can use Bookdown to share access with learners.
+
+##  Accessible {-}
+
+1. **Open access to course materials:** A Course Book created with Bookdown is a simple URL! Students do not need to login to Moodle to access the book.  They can also download as a pdf or epub (discussed below), so limited wifi shouldn't be an issue.
+
+1. **Integration with Moodle:** The CourseBook can be embedded in a tab in Moodle, so students can access the book within their Moodle shell.
+
+1. **Mobile-friendly:**
+1. **Collaborative infrastructure for design & maintenance (GitHub):**
+
+
+
+
+##  Learning Outcomes{-}
+
+
+
+##  Activity Checklist{-}
+
+
+|Learning Activities|
+|---|
+|   |
+
+
+
+## Topic Title
+
+
+
+###  Activity: Reading
+
+```{block, type='reflect'}
+
+
+```
+
+
+
+## Unit Summary{-}
+
+
+##  Assessment{-}
+```{block, type='assessment'}
+### Assessment Title {-}
+See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
+```
+
+##  Checking your Learning{-}
+```{block, type='progress'}
+
+```

@@ -16,6 +16,7 @@ biblio-style: apalike
 
 # Workshop Description{-}
 ![](assets/index/Access-denied_story-slanted.jpg)
+Image adapted from [Wikimedia](https://commons.wikimedia.org/wiki/File:Access-denied_story.jpg)
 
 *Access denied! You do not have permission to view this file!*  Sound familiar? Imagine how our learners must feel as they take all the necessary steps to begin a course, only to encounter barrier after barrier. Low Wi-Fi causing network disruptions, logging in to multiple sites to view resources, trying to locate a specific unit topic, and having screen display issues.
 
