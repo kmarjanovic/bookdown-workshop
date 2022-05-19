@@ -29,9 +29,9 @@ The second half of this workshop will allow participants to present their own co
 ## Workshop Learning Outcomes{-}
 
 Participants will be able to:  
-- explore open access tools, such as Bookdown   
-- discuss advantages and disadvantages of using tools like Bookdown in courses   
-- share their course design challenges and gain insight from others  
+🔍 explore open access tools, such as Bookdown   
+👍🏽👎🏽discuss advantages and disadvantages of using tools like Bookdown in courses   
+👐 share their course design challenges and gain insight from others  
 
 
 ---
