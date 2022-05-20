@@ -13,7 +13,7 @@ There are many advantages for using the Bookdown as a course resource. As you vi
 
 1. **Collaborative infrastructure for design & maintenance (GitHub):** GitHub allows course writers to track changes, collaborate on material, and update all versions of courses without having to edit each Moodle shell of a course.  Our TWU Online team has been using GitHub since 2018, so the integration of RStudio went fairly smoothly.
 
---
+![](assets/advantages/591-Moodle-BD.png)
 
 ## Features {-}
 
@@ -38,15 +38,15 @@ There are many advantages for using the Bookdown as a course resource. As you vi
 
 1. **Icons:** Easy to add icons for activities (we use [emojipedia](https://emojipedia.org/)😊)
 
+![](assets/advantages/blocks.png)
+
+
 ## Integration {-}
-1. **Integration of a variety of interactive activities:**
-   - H5P, Padlet, Hypothesis, discussions, graphs, maps, etc.
+1. **Integration of a variety of interactive activities:** H5P, Padlet, Hypothesis, discussions, graphs, maps, etc.
 
-1. **Ability to link to other sections of the book/course:**
-- footnotes, references, glossary, etc.
+1. **Ability to link to other sections of the book/course:** footnotes, references, glossary, etc.
 
-1. **Embedded content:**
-- slides, videos, pdfs, etc.
+1. **Embedded content:** slides, videos, pdfs, etc.
 
 ## Reproducible {-}
 1. **Reproducible:** If the repository is open to the public, you can fork (copy) it and use it for your own purposes.
