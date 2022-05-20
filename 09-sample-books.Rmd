@@ -3,4 +3,22 @@
 One of the best ways to learn bookdown is to browse some of the books out there. [Bookdown.org](https://bookdown.org/) lists a number of example Bookdown courses and books.  Below are some of my favourites, and some features to explore.
 
 
-1. [On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs](https://ontheline.trincoll.edu/). See the interactive map in [Chapter 2](https://ontheline.trincoll.edu/segregating.html)  
+1. [On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs](https://ontheline.trincoll.edu/).  
+   - See the interactive map in [Chapter 2](https://ontheline.trincoll.edu/segregating.html)   
+2. [R Module 1](https://csu-r.github.io/Module1/)  
+3. [Science Research Methods: Tutorials](https://bookdown.org/pkaldunn/SRM-tutorials/)  
+4. [Applied Social Network Analysis in Education](https://bookdown.org/chen/snaEd)  
+5. [SOC 4015 & 5050: Quantitative Analysis](https://slu-soc5050.github.io/syllabus/) 
+6. [SOC 1120-02 and H02: Introduction to Sociology - Diversity & Health](https://slu-soc1120.github.io/syllabus/)  
+7. [Learning Analytics](https://bookdown.org/chen/la-manual/)  
+8. [APS 135: Introduction to Exploratory Data Analysis with R](https://dzchilds.github.io/eda-for-bio/)   
+9. [Teaching Tech Together](http://teachtogether.tech/en/index.html#)  
+10. [What they forgot to teach you about teaching R](https://wtf-teach.netlify.app/index.html)  
+
+
+
+### TWU Courses:  
+- [TWU Bookdown Course Template](https://twuonline.github.io/bookdown-template/)  
+- [LDRS 664: Creating Authentic Learning Communities](https://ma-lead.github.io/ldrs664/)  
+- [LDRS 591: Scholarly Inquiry](https://ma-lead.github.io/ldrs591/)  
+- [LDRS 663: Effective Coaching for Transformational Learning in Blended Learning Environments](https://ma-lead.github.io/ldrs663/)   
