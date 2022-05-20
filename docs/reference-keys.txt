@@ -7,6 +7,7 @@ resources
 bookdown-resources
 tutorial-videos
 sample-course-books
+twu-courses
 sample-coursebook-introduction
 unit-template
 topic-title
