@@ -106,7 +106,8 @@
 <li class="chapter" data-level="" data-path="getting-started.html"><a href="getting-started.html#git-github-github-desktop"><i class="fa fa-check"></i>Git, GitHub, GitHub Desktop</a></li>
 <li class="chapter" data-level="" data-path="getting-started.html"><a href="getting-started.html#atom"><i class="fa fa-check"></i>Atom</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="getting-started.html"><a href="getting-started.html#creating-your-book"><i class="fa fa-check"></i>Creating Your Book</a></li>
+<li class="chapter" data-level="" data-path="getting-started.html"><a href="getting-started.html#creating-your-book-from-a-github-repository"><i class="fa fa-check"></i>Creating Your Book from a GitHub Repository</a></li>
+<li class="chapter" data-level="" data-path="getting-started.html"><a href="getting-started.html#creating-a-book-in-rstudio"><i class="fa fa-check"></i>Creating a Book in RStudio</a></li>
 <li class="chapter" data-level="" data-path="getting-started.html"><a href="getting-started.html#making-edits-to-book"><i class="fa fa-check"></i>Making Edits to Book</a></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="resources.html"><a href="resources.html"><i class="fa fa-check"></i><b>4</b> Resources</a>
@@ -261,10 +262,9 @@ Alternatively, install <a href="https://code.visualstudio.com/">VSCode</a>
 <hr />
 </div>
 </div>
-<div id="creating-your-book" class="section level2 unnumbered">
-<h2>Creating Your Book</h2>
-<p>If you see a Book you’d like to copy/modify, then go to the repository in GitHub and fork it.
-To build a book from scratch, you will need to create a repository in GitHub.</p>
+<div id="creating-your-book-from-a-github-repository" class="section level2 unnumbered">
+<h2>Creating Your Book from a GitHub Repository</h2>
+<p>If you see a Book you’d like to copy/modify, then go to the repository in GitHub and fork it.</p>
 <p>See the following directions from <a href="https://docs.github.com/en/get-started/quickstart/hello-world">GitHub Docs</a></p>
 <div class="reflect">
 <h3 id="creating-a-repository">
@@ -297,6 +297,74 @@ Click Create repository.
 </li>
 </ol>
 </div>
+</div>
+<div id="creating-a-book-in-rstudio" class="section level2 unnumbered">
+<h2>Creating a Book in RStudio</h2>
+<p>Here are the instructions from <a href="https://bookdown.org/home/about/" class="uri">https://bookdown.org/home/about/</a>.</p>
+<div class="reflect">
+<p>
+Below are a few simple steps for you to get started with writing a book using bookdown. For the comprehensive documentation of bookdown, please see <a href="https://bookdown.org/yihui/bookdown" class="uri">https://bookdown.org/yihui/bookdown</a>.
+</p>
+<h3 id="install">
+<ol style="list-style-type: decimal">
+<li>Install
+</h3>
+<ol style="list-style-type: lower-alpha">
+<li>
+First install the bookdown R package as follows:
+</li>
+</ol>
+<ul>
+<li>
+<p>
+you can either use the CRAN version install.packages(‘bookdown’)
+</p>
+</li>
+<li>
+<p>
+or the development version on Github remotes::install_github(‘rstudio/bookdown’)
+</p>
+</li>
+</ul>
+<p>
+The <a href="https://www.rstudio.com/products/rstudio/download/preview/">RStudio IDE</a> is recommended but not strictly required (we will show it in the next steps).
+</p>
+<h3 id="edit">
+<ol start="2" style="list-style-type: decimal">
+<li>Edit
+</h3>
+<p>
+One way to get started is to fork or clone the repository <a href="https://github.com/rstudio/bookdown-demo" class="uri">https://github.com/rstudio/bookdown-demo</a> (if you are not familiar with Git and GitHub, you can alternatively download it as a zip file and unzip it). Alternatively, if you are using a recent version of the RStudio IDE, you can directly create a book project in the IDE.
+</p>
+<p>
+Open the demo book project within RStudio, open the index.Rmd file, and click the Knit button:
+</p>
+<p>
+Now you should see the index page of this book demo in the preview window
+</p>
+<p>
+The Knit button renders just the chapter you are currently editing (e.g. index.Rmd, 01-intro.Rmd, etc.) using the default output format for the book. To build all chapters and all formats of the book you can use the Build Book button within the RStudio Build pane:
+</p>
+<p>
+By default the HTML, PDF, and ePub formats of the book will be compiled into the book sub-directory of the project (you can also build a single format at a time using the Build Book menu).
+</p>
+<p>
+Note that if you want to generate PDF, you’d need a LaTeX distribution.
+</p>
+<h3 id="publish">
+<ol start="3" style="list-style-type: decimal">
+<li>Publish
+</h3>
+<p>
+To publish your books to bookdown.org, you need to first create an account by signing in with your Google account, and then call the function publish_book() in R:
+</p>
+<p>
+bookdown::publish_book(render = ‘local’) If it is the first time you have tried to publish the book, you will be asked to authorize bookdown to publish to your bookdown.org account.
+</p>
+</div></li>
+</ol></li>
+</ol></li>
+</ol>
 <hr />
 </div>
 <div id="making-edits-to-book" class="section level2 unnumbered">
