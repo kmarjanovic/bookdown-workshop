@@ -27,7 +27,7 @@ The second half of this workshop will allow participants to present their own co
 
 ---
 
-## Workshop Learning Outcomes{-}
+## Workshop Learning Outcomes{-}  
 ```{block, type='progress'}
 In this workshop, participants will be able to:  
 🔍 explore open access tools, such as Bookdown   

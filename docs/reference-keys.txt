@@ -1,9 +1,7 @@
-fig:unnamed-chunk-23
-fig:unnamed-chunk-24
+fig:unnamed-chunk-20
+fig:unnamed-chunk-21
 what-is-bookdown
 bookdown-advantages
-topic-title
-activity-reading
 getting-started
 resources
 bookdown-resources
@@ -11,7 +9,7 @@ tutorial-videos
 sample-course-books
 sample-coursebook-introduction
 unit-template
-topic-title-1
+topic-title
 activity-introductory-readings-video
 topic-2-title
 activity-video

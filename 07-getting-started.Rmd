@@ -28,6 +28,7 @@ RStudio is an integrated development environment for R, a programming language f
 ###  Git, GitHub, GitHub Desktop {-}
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.  
+
 ```{block, type='reflect'}
 1. Create a [GitHub account](https://github.com/)  
 1. See the [GitHub tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)  
@@ -38,10 +39,12 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, and embedded Git Control. Developed by GitHub, Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. ([Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor)).    
 
 This is optional, but is definitely handy in creating with Bookdown.
+
 ```{block, type='reflect'}
 1. Install [Atom](https://atom.io/)  
 1. Alternatively, install [VSCode](https://code.visualstudio.com/)
 ```
+
 ---
 
 ## Creating Your Book from a GitHub Repository {-}
@@ -110,4 +113,4 @@ If it is the first time you have tried to publish the book, you will be asked to
 4. In GitHub Desktop: Commit to main and Push origin
 
 
-![](assets/getting-started.png)
+![](assets/getting-started/git-commit.png)
