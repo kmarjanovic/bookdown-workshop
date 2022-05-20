@@ -48,6 +48,8 @@ There are many advantages for using the Bookdown as a course resource. As you vi
 
 1. **Embedded content:** slides, videos, pdfs, etc.
 
+![](assets/advantages/video.png)
+
 ## Reproducible {-}
 1. **Reproducible:** If the repository is open to the public, you can fork (copy) it and use it for your own purposes.
 1. **Dynamic stats with R:** Many stats courses use Bookdown as it displays synamic stats.
