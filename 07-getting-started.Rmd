@@ -5,17 +5,17 @@
 Go to: https://github.com/rstudio/bookdown-demo
 
 You will need the following:  
-- R installed  
-- Rstudio installed  
-- GitHub account  
-- Git installed  
-- GitHub Desktop installed  
-- optional: Atom or VSCode installed  
+- [R](https://cran.r-project.org/bin/windows/base/) installed  
+- [Rstudio](https://www.rstudio.com/products/rstudio/download/) installed  
+- [GitHub account & GitHub Desktop](https://github.com/)
+- Optional: [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/) installed  
 
-See below for explanations and instructions:
+See below for explanations and instructions.
 
 ### R & RStudio {-}
+RStudio is an integrated development environment for R, a programming language for statistical computing and graphics. It is available in two formats: RStudio Desktop is a regular desktop application while RStudio Server runs on a remote server and allows accessing RStudio using a web browser. [Wikipedia](https://en.wikipedia.org/wiki/RStudio)
 
+```{block, type='reflect'}
 1. Install R from [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/) (Download R 4.1.1 for Windows or Mac, as appropriate)
 1. Download R studio (free) [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)
 1. You may need to install packages.  You can do this by adding the commands to the console, or go to Tools > Install Packages
@@ -23,24 +23,52 @@ See below for explanations and instructions:
  - `install.packages('rlang')`
  - `install.packages('bookdown')`
 8. If install doesn't work, go to source of package. e.g. [https://cloud.r-project.org/web/packages/bookdown/index.html](https://cloud.r-project.org/web/packages/bookdown/index.html)
+```
 
 ###  Git, GitHub, GitHub Desktop {-}
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.  
+```{block, type='reflect'}
 1. Create a [GitHub account](https://github.com/)  
 1. See the [GitHub tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)  
-
-
+```
 
 ### Atom {-}
 
-Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, and embedded Git Control. Developed by GitHub, Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. ([Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor)).  See https://atom.io/ for more information.
+Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, and embedded Git Control. Developed by GitHub, Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. ([Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor)).    
 
+This is optional, but is definitely handy in creating with Bookdown.
+```{block, type='reflect'}
+1. Install [Atom](https://atom.io/)  
+1. Alternatively, install [VSCode](https://code.visualstudio.com/)
+```
+---
 
+## Creating Your Book {-}
+If you see a Book you'd like to copy/modify, then go to the repository in GitHub and fork it.
+To build a book from scratch, you will need to create a repository in GitHub.
+
+See the following directions from [GitHub Docs](https://docs.github.com/en/get-started/quickstart/hello-world)
+
+```{block, type='reflect'}
+### Creating a repository
+A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets -- anything your project needs. Often, repositories include a README file, a file with information about your project. README files are written in the plain text Markdown language. You can use this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) to get started with Markdown syntax. GitHub lets you add a README file at the same time you create your new repository. GitHub also offers other common options such as a license file, but you do not have to select any of them now.
+
+Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
+
+1. In the upper-right corner of any page, use the  drop-down menu, and select New repository.  
+1. In the Repository name box, enter hello-world.  
+1. In the Description box, write a short description.  
+1. Select Add a README file.  
+1. Select whether your repository will be Public or Private.  
+1. Click Create repository.  
+```
+
+---
 
 ## Making Edits to Book {-}
 
 1. In GitHub desktop, clone the repository to your computer.  (e.g. [https://github.com/ma-lead](https://github.com/ma-lead))
-2. Edit in Atom
-3. Build book in RStudio
-4. Commit and push in GitHub Desktop
+2. In Atom: Edit content
+3. In RStudio: Build book, see preview
+4. In GitHub Desktop: Commit to main and Push origin

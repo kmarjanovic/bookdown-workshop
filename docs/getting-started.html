@@ -106,6 +106,7 @@
 <li class="chapter" data-level="" data-path="getting-started.html"><a href="getting-started.html#git-github-github-desktop"><i class="fa fa-check"></i>Git, GitHub, GitHub Desktop</a></li>
 <li class="chapter" data-level="" data-path="getting-started.html"><a href="getting-started.html#atom"><i class="fa fa-check"></i>Atom</a></li>
 </ul></li>
+<li class="chapter" data-level="" data-path="getting-started.html"><a href="getting-started.html#creating-your-book"><i class="fa fa-check"></i>Creating Your Book</a></li>
 <li class="chapter" data-level="" data-path="getting-started.html"><a href="getting-started.html#making-edits-to-book"><i class="fa fa-check"></i>Making Edits to Book</a></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="resources.html"><a href="resources.html"><i class="fa fa-check"></i><b>4</b> Resources</a>
@@ -190,47 +191,121 @@
 <h2>Creating your Bookdown course</h2>
 <p>Go to: <a href="https://github.com/rstudio/bookdown-demo" class="uri">https://github.com/rstudio/bookdown-demo</a></p>
 <p>You will need the following:<br />
-- R installed<br />
-- Rstudio installed<br />
-- GitHub account<br />
-- Git installed<br />
-- GitHub Desktop installed<br />
-- optional: Atom or VSCode installed</p>
-<p>See below for explanations and instructions:</p>
+- <a href="https://cran.r-project.org/bin/windows/base/">R</a> installed<br />
+- <a href="https://www.rstudio.com/products/rstudio/download/">Rstudio</a> installed<br />
+- <a href="https://github.com/">GitHub account &amp; GitHub Desktop</a>
+- Optional: <a href="https://atom.io/">Atom</a> or <a href="https://code.visualstudio.com/">VSCode</a> installed</p>
+<p>See below for explanations and instructions.</p>
 <div id="r-rstudio" class="section level3 unnumbered">
 <h3>R &amp; RStudio</h3>
+<p>RStudio is an integrated development environment for R, a programming language for statistical computing and graphics. It is available in two formats: RStudio Desktop is a regular desktop application while RStudio Server runs on a remote server and allows accessing RStudio using a web browser. <a href="https://en.wikipedia.org/wiki/RStudio">Wikipedia</a></p>
+<div class="reflect">
 <ol style="list-style-type: decimal">
-<li>Install R from <a href="https://cran.r-project.org/bin/windows/base/">https://cran.r-project.org/bin/windows/base/</a> (Download R 4.1.1 for Windows or Mac, as appropriate)</li>
-<li>Download R studio (free) <a href="https://www.rstudio.com/products/rstudio/download/">https://www.rstudio.com/products/rstudio/download/</a></li>
-<li>You may need to install packages. You can do this by adding the commands to the console, or go to Tools &gt; Install Packages</li>
+<li>
+Install R from <a href="https://cran.r-project.org/bin/windows/base/">https://cran.r-project.org/bin/windows/base/</a> (Download R 4.1.1 for Windows or Mac, as appropriate)
+</li>
+<li>
+Download R studio (free) <a href="https://www.rstudio.com/products/rstudio/download/">https://www.rstudio.com/products/rstudio/download/</a>
+</li>
+<li>
+You may need to install packages. You can do this by adding the commands to the console, or go to Tools &gt; Install Packages
+</li>
 </ol>
 <ul>
-<li><code>install.packages('rmarkdown')</code></li>
-<li><code>install.packages('rlang')</code></li>
-<li><code>install.packages('bookdown')</code></li>
+<li>
+<code>install.packages(‘rmarkdown’)</code>
+</li>
+<li>
+<code>install.packages(‘rlang’)</code>
+</li>
+<li>
+<code>install.packages(‘bookdown’)</code>
+</li>
 </ul>
 <ol start="8" style="list-style-type: decimal">
-<li>If install doesn’t work, go to source of package. e.g. <a href="https://cloud.r-project.org/web/packages/bookdown/index.html">https://cloud.r-project.org/web/packages/bookdown/index.html</a></li>
+<li>
+If install doesn’t work, go to source of package. e.g. <a href="https://cloud.r-project.org/web/packages/bookdown/index.html">https://cloud.r-project.org/web/packages/bookdown/index.html</a>
+</li>
 </ol>
+</div>
 </div>
 <div id="git-github-github-desktop" class="section level3 unnumbered">
 <h3>Git, GitHub, GitHub Desktop</h3>
-<p>GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.<br />
-1. Create a <a href="https://github.com/">GitHub account</a><br />
-1. See the <a href="https://docs.github.com/en/get-started/quickstart/hello-world">GitHub tutorial</a></p>
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.<br />
+
+<div class="reflect">
+<ol style="list-style-type: decimal">
+<li>
+Create a <a href="https://github.com/">GitHub account</a><br />
+</li>
+<li>
+See the <a href="https://docs.github.com/en/get-started/quickstart/hello-world">GitHub tutorial</a>
+</li>
+</ol>
+</div>
 </div>
 <div id="atom" class="section level3 unnumbered">
 <h3>Atom</h3>
-<p>Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, and embedded Git Control. Developed by GitHub, Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. (<a href="https://en.wikipedia.org/wiki/Atom_(text_editor)">Wikipedia</a>. See <a href="https://atom.io/" class="uri">https://atom.io/</a> for more information.</p>
+<p>Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, and embedded Git Control. Developed by GitHub, Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. (<a href="https://en.wikipedia.org/wiki/Atom_(text_editor)">Wikipedia</a>.</p>
+This is optional, but is definitely handy in creating with Bookdown.
+<div class="reflect">
+<ol style="list-style-type: decimal">
+<li>
+Install <a href="https://atom.io/">Atom</a><br />
+</li>
+<li>
+Alternatively, install <a href="https://code.visualstudio.com/">VSCode</a>
+</li>
+</ol>
 </div>
+<hr />
+</div>
+</div>
+<div id="creating-your-book" class="section level2 unnumbered">
+<h2>Creating Your Book</h2>
+<p>If you see a Book you’d like to copy/modify, then go to the repository in GitHub and fork it.
+To build a book from scratch, you will need to create a repository in GitHub.</p>
+<p>See the following directions from <a href="https://docs.github.com/en/get-started/quickstart/hello-world">GitHub Docs</a></p>
+<div class="reflect">
+<h3 id="creating-a-repository">
+Creating a repository
+</h3>
+<p>
+A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. Often, repositories include a README file, a file with information about your project. README files are written in the plain text Markdown language. You can use this <a href="https://www.markdownguide.org/cheat-sheet/">cheat sheet</a> to get started with Markdown syntax. GitHub lets you add a README file at the same time you create your new repository. GitHub also offers other common options such as a license file, but you do not have to select any of them now.
+</p>
+<p>
+Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
+</p>
+<ol style="list-style-type: decimal">
+<li>
+In the upper-right corner of any page, use the drop-down menu, and select New repository.<br />
+</li>
+<li>
+In the Repository name box, enter hello-world.<br />
+</li>
+<li>
+In the Description box, write a short description.<br />
+</li>
+<li>
+Select Add a README file.<br />
+</li>
+<li>
+Select whether your repository will be Public or Private.<br />
+</li>
+<li>
+Click Create repository.
+</li>
+</ol>
+</div>
+<hr />
 </div>
 <div id="making-edits-to-book" class="section level2 unnumbered">
 <h2>Making Edits to Book</h2>
 <ol style="list-style-type: decimal">
 <li>In GitHub desktop, clone the repository to your computer. (e.g. <a href="https://github.com/ma-lead">https://github.com/ma-lead</a>)</li>
-<li>Edit in Atom</li>
-<li>Build book in RStudio</li>
-<li>Commit and push in GitHub Desktop</li>
+<li>In Atom: Edit content</li>
+<li>In RStudio: Build book, see preview</li>
+<li>In GitHub Desktop: Commit to main and Push origin</li>
 </ol>
 
 </div>
