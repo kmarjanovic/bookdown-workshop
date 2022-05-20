@@ -37,14 +37,15 @@ In this workshop, participants will be able to:
 
 ---
 
-## Workshop Agenda Topics{-}
+## Workshop Agenda Topics{-}  
+```{block, type='progress'}
 1. Problem: Barriers to Access
 1. Solution: Bookdown format
 1. What is Bookdown?
 1. Why Use Bookdown?
 1. Feedback & Challenges
 1. Your Course Design Challenge
-
+```
 ---
 
 ## Workshop Presentation{-}

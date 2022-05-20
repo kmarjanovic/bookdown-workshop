@@ -88,6 +88,11 @@
 <ul>
 <li class="chapter" data-level="" data-path="bookdown-advantages.html"><a href="bookdown-advantages.html#overview-1"><i class="fa fa-check"></i>Overview</a></li>
 <li class="chapter" data-level="" data-path="bookdown-advantages.html"><a href="bookdown-advantages.html#accessible"><i class="fa fa-check"></i>Accessible</a></li>
+<li class="chapter" data-level="" data-path="bookdown-advantages.html"><a href="bookdown-advantages.html#features"><i class="fa fa-check"></i>Features</a></li>
+<li class="chapter" data-level="" data-path="bookdown-advantages.html"><a href="bookdown-advantages.html#appearance"><i class="fa fa-check"></i>Appearance</a></li>
+<li class="chapter" data-level="" data-path="bookdown-advantages.html"><a href="bookdown-advantages.html#design"><i class="fa fa-check"></i>Design</a></li>
+<li class="chapter" data-level="" data-path="bookdown-advantages.html"><a href="bookdown-advantages.html#integration"><i class="fa fa-check"></i>Integration</a></li>
+<li class="chapter" data-level="" data-path="bookdown-advantages.html"><a href="bookdown-advantages.html#reproducible"><i class="fa fa-check"></i>Reproducible</a></li>
 </ul></li>
 <li class="chapter" data-level="3" data-path="getting-started.html"><a href="getting-started.html"><i class="fa fa-check"></i><b>3</b> Getting Started</a>
 <ul>
@@ -191,15 +196,23 @@
 Figure 9.1: Simplified workflow to compose, compile, and publish in multiple formats with Bookdown. Images from Daniel Hendricks, RStudio, and Zotero.</p>
 <p><em>From <a href="https://ontheline.trincoll.edu/bookdown.html">Bookdown, GitHub, and Zotero</a> by Jack Dougherty and Ilya Ilyankou</em></p>
 <p>Here is our workflow in creating a course in Bookdown. See <a href="https://kmarjanovic.github.io/bookdown-workshop/getting-started.html">Getting Started</a> for more details.</p>
-<div class="progress">
+<div class="reflect">
+<h3 id="book-set-up">
 <ol style="list-style-type: decimal">
+<li>Book set-up:
+</h3>
+<ul>
 <li>
-<strong>Book set-up:</strong> We set up the Bookdown files and composed the manuscript in <a href="https://rmarkdown.rstudio.com/">R Markdown</a>, the R-flavored version of the easy-to-write <a href="https://en.wikipedia.org/wiki/Markdown">Markdown syntax</a>. Each chapter consisted of one .Rmd file, with links to static images and interactive visualizations.<br />
+We set up the Bookdown files and composed the manuscript in <a href="https://rmarkdown.rstudio.com/">R Markdown</a>, the R-flavored version of the easy-to-write <a href="https://en.wikipedia.org/wiki/Markdown">Markdown syntax</a>.
 </li>
 <li>
-<strong>Adding content:</strong>
+Each chapter consisted of one .Rmd file, with links to static images and interactive visualizations.
 </li>
-</ol>
+</ul>
+<h3 id="adding-content">
+<ol start="2" style="list-style-type: decimal">
+<li>Adding content:
+</h3>
 <ul>
 <li>
 We upload our files to a free <a href="https://github.com/">GitHub</a> repository, which allows multiple authors to work simultaneously on different chapters of the book and “push” revisions (called commits) to a shared online repository, where authors can view each other’s edits.
@@ -209,18 +222,37 @@ Many on our online team use <a href="https://atom.io/">Atom</a> to add content.
 </li>
 <li>
 Many of our instructors / SMEs (Subject Matter Experts) use Word documents or Google docs for content.<br />
-For Google docs, you can use the <a href="https://github.com/evbacher/gd2md-html/wiki">Docs to Markdown add-on</a> to convert one-time into Markdown format, which is similar to R Markdown. For Word docs, we use the <a href="https://www.writage.com/">Writage plugin</a> to convert to markdown.<br />
+</li>
+<li>
+For Google docs, you can use the <a href="https://github.com/evbacher/gd2md-html/wiki">Docs to Markdown add-on</a> to convert one-time into Markdown format, which is similar to R Markdown. For Word docs, we use the <a href="https://www.writage.com/">Writage plugin</a> to convert to markdown.
 </li>
 </ul>
-<ol style="list-style-type: decimal">
+<h3 id="building-the-book">
+<ol start="3" style="list-style-type: decimal">
+<li>Building the book:
+</h3>
+<ul>
 <li>
-<strong>Building the book:</strong> After adding content (through Github or Atom), we used Bookdown to automatically “knit” and compile the book products. Behind the scenes, Bookdown builds the editions using the PanDoc universal document converter and the LaTeX document preparation software, without requiring you to learn these complex formats.
+After adding content (through Github or Atom), we used Bookdown to automatically “knit” and compile the book products.
 </li>
 <li>
-<strong>Commit to Create!</strong> Lastly, we commit the changes through GitHub Desktop, and voila! Your book is created!
+Behind the scenes, Bookdown builds the editions using the PanDoc universal document converter and the LaTeX document preparation software, without requiring you to learn these complex formats.
 </li>
+</ul>
+<h3 id="commit-to-create">
+<ol start="4" style="list-style-type: decimal">
+<li>Commit to Create!
+</h3>
+<ul>
+<li>
+Lastly, we commit the changes through GitHub Desktop, and voila! Your book is created!
+</li>
+</ul>
+</div></li>
+</ol></li>
+</ol></li>
+</ol></li>
 </ol>
-</div>
 <p><em>Modified from <a href="https://ontheline.trincoll.edu/bookdown.html">Bookdown, GitHub, and Zotero</a> by Jack Dougherty and Ilya Ilyankou</em></p>
 
 </div>
