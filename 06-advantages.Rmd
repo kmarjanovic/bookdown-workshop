@@ -22,7 +22,7 @@ There are many advantages for using the Bookdown as a course resource. As you vi
 1. **Integrated search function**
 1. **Generates ePub or PDF**
 
-![](assets/advantages/epub.png)
+![](assets/advantages/bd-epub.png)
 
 
 ## Appearance {-}
