@@ -3,16 +3,18 @@
 ## Bookdown resources {-}
 Below are some key resources for to help you create a book using Bookdown.
 
+```{block, type='reflect'}
 1. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, Garrett Grolemund  
 1. [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/) by Yihui Xie  
 1. [GitHub Docs](https://docs.github.com/en) - See Get Started section  
 1. https://bookdown.org/ - See example Bookdown courses  
-
+```
 
 
 ## Tutorial Videos: {-}
-
+```{block, type='video'}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8uFABzUG6Lw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dVqVscgwSpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```

@@ -1,5 +1,5 @@
-fig:unnamed-chunk-21
-fig:unnamed-chunk-22
+fig:unnamed-chunk-25
+fig:unnamed-chunk-26
 what-is-bookdown
 bookdown-advantages
 getting-started

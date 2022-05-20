@@ -2,7 +2,7 @@
 
 One of the best ways to learn bookdown is to browse some of the books out there. [Bookdown.org](https://bookdown.org/) lists a number of example Bookdown courses and books.  Below are some of my favourites, and some features to explore.
 
-
+```{block, type='reflect'}
 1. [On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs](https://ontheline.trincoll.edu/).  
    - See the interactive map in [Chapter 2](https://ontheline.trincoll.edu/segregating.html)   
 2. [R Module 1](https://csu-r.github.io/Module1/)  
@@ -17,21 +17,23 @@ One of the best ways to learn bookdown is to browse some of the books out there.
     - See [Weekly Participation](https://bookdown.org/chen/la-manual/intro.html#this-course) graphic  
 7. [APS 135: Introduction to Exploratory Data Analysis with R](https://dzchilds.github.io/eda-for-bio/)
    - See examples of graphs and [plots](https://dzchilds.github.io/eda-for-bio/customising-plots.html)   
-8. [Teaching Tech Together](http://teachtogether.tech/en/index.html#)  
-  - See Learning Activities and [Concept Maps](http://teachtogether.tech/en/index.html#s:models)
-9. [What they forgot to teach you about teaching R](https://wtf-teach.netlify.app/index.html)  
-  - See slides using [Flipbook](https://wtf-teach.netlify.app/cake.html)
+8. [Teaching Tech Together](http://teachtogether.tech/en/index.html#)   
+   - See Learning Activities and [Concept Maps](http://teachtogether.tech/en/index.html#s:models)
+9. [What they forgot to teach you about teaching R](https://wtf-teach.netlify.app/index.html)   
+   - See slides using [Flipbook](https://wtf-teach.netlify.app/cake.html)
 10. [Reproducible Research in R](https://r-cubed.rostools.org/index.html)
     - See [linked schedule](https://r-cubed.rostools.org/schedule.html)
 11. [Data Visualization](https://socviz.co/index.html#preface)  
     - This is in the Tufte format.  See notes and [graphs in margins](https://socviz.co/lookatdata.html#lookatdata)
-
+```
 
 
 
 
 ### TWU Courses:  {-}
+```{block, type='reflect'}
 - [TWU Bookdown Course Template](https://twuonline.github.io/bookdown-template/)  
 - [LDRS 664: Creating Authentic Learning Communities](https://ma-lead.github.io/ldrs664/)  
 - [LDRS 591: Scholarly Inquiry](https://ma-lead.github.io/ldrs591/)  
 - [LDRS 663: Effective Coaching for Transformational Learning in Blended Learning Environments](https://ma-lead.github.io/ldrs663/)   
+```
