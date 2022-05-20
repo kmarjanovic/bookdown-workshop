@@ -1,4 +1,4 @@
-# Assessment Samples {-}
+# Assessment Samples
 
 The following assignments are opportunities for learners to demonstrate their understanding of the course outcomes.  Please confirm assignment details with your instructor, referring to the course syllabus.
 
@@ -27,8 +27,8 @@ The paper should include:
 4.	Reference List
 ```
 
-```{block, type='purpose'}
-Note: We're still looking for an accessible rubric format. In the meantime, we've listed the criteria as follows to help those with screen readers. 
+ ```{block, type='caution'}
+Note: We're still looking for an accessible rubric format. In the meantime, we've listed the criteria as follows to help those with screen readers.
 ```
 
 ### Company Website Analysis Rubric {-}

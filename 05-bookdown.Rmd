@@ -14,7 +14,9 @@ Figure 9.1: Simplified workflow to compose, compile, and publish in multiple for
 
 *From [Bookdown, GitHub, and Zotero](https://ontheline.trincoll.edu/bookdown.html) by Jack Dougherty and Ilya Ilyankou*
 
+Here is our workflow in creating a course in Bookdown.  See [Getting Started](https://kmarjanovic.github.io/bookdown-workshop/getting-started.html) for more details.
 
+ ```{block, type='progress'}
 1. **Book set-up:** We set up the Bookdown files and composed the manuscript in [R Markdown](https://rmarkdown.rstudio.com/), the R-flavored version of the easy-to-write [Markdown syntax](https://en.wikipedia.org/wiki/Markdown). Each chapter consisted of one .Rmd file, with links to static images and interactive visualizations.  
 1. **Adding content:**
   - We upload our files to a free [GitHub](https://github.com/) repository, which allows multiple authors to work simultaneously on different chapters of the book and “push” revisions (called commits) to a shared online repository, where authors can view each other’s edits.
@@ -23,5 +25,6 @@ Figure 9.1: Simplified workflow to compose, compile, and publish in multiple for
   For Google docs, you can use the [Docs to Markdown add-on](https://github.com/evbacher/gd2md-html/wiki) to convert one-time into Markdown format, which is similar to R Markdown. For Word docs, we use the [Writage plugin](https://www.writage.com/) to convert to markdown.  
 1. **Building the book:** After adding content (through Github or Atom), we used Bookdown to automatically “knit” and compile the book products. Behind the scenes, Bookdown builds the editions using the PanDoc universal document converter and the LaTeX document preparation software, without requiring you to learn these complex formats.
 1. **Commit to Create!** Lastly, we commit the changes through GitHub Desktop, and voila! Your book is created!
+```
 
 *Modified from [Bookdown, GitHub, and Zotero](https://ontheline.trincoll.edu/bookdown.html) by Jack Dougherty and Ilya Ilyankou*

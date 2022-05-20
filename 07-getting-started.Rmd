@@ -72,3 +72,6 @@ Your hello-world repository can be a place where you store ideas, resources, or 
 2. In Atom: Edit content
 3. In RStudio: Build book, see preview
 4. In GitHub Desktop: Commit to main and Push origin
+
+
+![](assets/getting-started.png)
