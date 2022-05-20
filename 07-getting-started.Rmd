@@ -4,17 +4,17 @@
 
 Go to: https://github.com/rstudio/bookdown-demo
 
-You will need the following:
-- R installed
-- Rstudio installed
-- GitHub account
-- Git installed
-- GitHub Desktop installed
-- optional: Atom or VSCode installed
+You will need the following:  
+- R installed  
+- Rstudio installed  
+- GitHub account  
+- Git installed  
+- GitHub Desktop installed  
+- optional: Atom or VSCode installed  
 
 See below for explanations and instructions:
 
-## R & R Studio {-}
+### R & RStudio {-}
 
 1. Install R from [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/) (Download R 4.1.1 for Windows or Mac, as appropriate)
 1. Download R studio (free) [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)
@@ -24,44 +24,23 @@ See below for explanations and instructions:
  - `install.packages('bookdown')`
 8. If install doesn't work, go to source of package. e.g. [https://cloud.r-project.org/web/packages/bookdown/index.html](https://cloud.r-project.org/web/packages/bookdown/index.html)
 
-##  Git, GitHub, GitHub Desktop {-}
+###  Git, GitHub, GitHub Desktop {-}
 
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-1. Create a [GitHub account](https://github.com/)
-1. See the [GitHub tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
-
-## Making Edits to Book{-}
-
-1. In Github desktop, clone the respository to your computer.  (e.g. [https://github.com/ma-lead](https://github.com/ma-lead))
-2. edit in Atom
-3. build book in RStudio
-4. stage, commit and push in GitHub desktop
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.  
+1. Create a [GitHub account](https://github.com/)  
+1. See the [GitHub tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)  
 
 
-## Atom
+
+### Atom {-}
 
 Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, and embedded Git Control. Developed by GitHub, Atom is a desktop application built using web technologies. Most of the extending packages have free software licenses and are community-built and maintained. ([Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor)).  See https://atom.io/ for more information.
 
 
-###  Activity: Reading
 
-```{block, type='reflect'}
+## Making Edits to Book {-}
 
-
-```
-
-
-
-## Unit Summary{-}
-
-
-##  Assessment{-}
-```{block, type='assessment'}
-### Assessment Title {-}
-See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
-```
-
-##  Checking your Learning{-}
-```{block, type='progress'}
-
-```
+1. In GitHub desktop, clone the repository to your computer.  (e.g. [https://github.com/ma-lead](https://github.com/ma-lead))
+2. Edit in Atom
+3. Build book in RStudio
+4. Commit and push in GitHub Desktop

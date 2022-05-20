@@ -1,12 +1,10 @@
-fig:unnamed-chunk-19
-fig:unnamed-chunk-20
+fig:unnamed-chunk-16
+fig:unnamed-chunk-17
 what-is-bookdown
 bookdown-advantages
 topic-title
 activity-reading
 getting-started
-atom
-activity-reading-1
 resources
 bookdown-resources
 tutorial-videos
